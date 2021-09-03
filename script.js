@@ -25,7 +25,7 @@ wp.domReady(() => {
 
 	/**
 	 *  To de-register blocks depending on which post-type you're currently
-	 *  editing, you can use "subscribe":
+	 *  editing, you can use "subscribe" (see unsubscribe funtion at the bottom of this file):
 	 *
 	 *  https://developer.wordpress.org/block-editor/reference-guides/packages/packages-data/#subscribe
 	 */
